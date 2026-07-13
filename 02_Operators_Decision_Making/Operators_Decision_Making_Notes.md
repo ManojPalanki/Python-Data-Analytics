@@ -1,4 +1,4 @@
-# Operators & Decision Making — Notes
+# Operators & Decision Making 
 
 ## 1. Introduction
 
